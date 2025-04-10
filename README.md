@@ -1,0 +1,2 @@
+# productimgs
+product_imgs
